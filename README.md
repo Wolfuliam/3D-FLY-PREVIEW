@@ -8,7 +8,7 @@
   <p>Recently, I wanted to create a cool project inspired in those fancy projects made in Three.js but, I encountered two problems.</p>
   <br>
   <ol>
-  <li><p>I can't model because I suck <i>haha</i></li>
-  <li><p>my javascript skills are not exactly out of the roof</p></li>
-  <p>However, I was really decided to advance with the idea. Long story short, I wanted to create a viewing insects type website because in one of my jobs (the cleaning pools one) my boss asked me if I   knew about web development and "web positioning" (which i don't have a clue yet), therefore, if I can't model, i'll have to <i>steal them</i> hence, steal is what I did so will be able to impress him in the future :)).</p>
+    <li><p>I can't model because I suck <i>haha</i></li>
+    <li><p>my javascript skills are not exactly out of the roof</p></li>
   </ol>
+  <p>However, I was really decided to advance with the idea. Well, long story short, I wanted to create a viewing insects type website because in one of my jobs (the cleaning pools one) my boss asked me if I knew about web development which I might have and, "web positioning" (which i don't have a clue yet), therefore, if I can't model, i'll have to <i>steal them</i> hence, <b>steal is what I did</b> so will be able to impress him in the future :)).</p>
